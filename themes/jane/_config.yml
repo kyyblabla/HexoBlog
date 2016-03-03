@@ -1,0 +1,16 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tag: /tags
+  Github: https://github.com/kyyblabla
+rss: /atom.xml
+
+# Content
+excerpt_link: More...
+fancybox: true
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
