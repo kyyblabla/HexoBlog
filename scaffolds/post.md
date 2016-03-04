@@ -1,5 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+tags: 
+category: 
 ---
+摘要：
+<!-- more -->
+

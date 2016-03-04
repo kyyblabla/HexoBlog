@@ -1,11 +1,13 @@
 ---
 title: AngularJs 笔记
 tags:
-  - angularjs
-  - javascript
-  - xx
+- directive
+- angularjs
+- javascript
+
 categories:
-  - ds
+- web前端
+
 ---
 this is a article excerpt 是滴是滴是滴
 我们饿二等奖而结尾看IP水电费
