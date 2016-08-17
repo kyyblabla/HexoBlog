@@ -9,10 +9,9 @@ categories:
 - web前端
 
 ---
-this is a article excerpt 是滴是滴是滴
-我们饿二等奖而结尾看IP水电费
-<!-- more --> 
-
+ AngularJs 笔记
+ 
+<!--more-->
 
 ### 指令directive
 指令`directive`的作用就是实现标签的语义化，扩展标签的功能与属性

@@ -4,15 +4,15 @@
 
 # Site
 title: 无用
-subtitle: 无所不用
-description: 小小码农的自我修炼之路
-author: KeyStone
-language: zh-CN
-timezone: 
+subtitle: 百无一用是书生
+description:
+author: 康岩
+language:
+timezone:
 
-#URL
+# URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://kyyblabla.github.io
+url: http://kyyblabla.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -63,15 +63,19 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: landscape
-#theme: air
-theme: jane
-#theme: maupassant
-#theme: chan
+theme: even
+
+# Generator-archive  需要 hexo-generator-archive
+archive_generator:
+  per_page: 20  # 归档页文章数, 参数为 0 时不分页
+  yearly: false
+  monthly: false
+  daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:kyyblabla/kyyblabla.github.io.git
+  repo: https://github.com/kyyblabla/kyyblabla.github.io.git
   branch: master
+  message: deploy
