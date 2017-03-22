@@ -8,7 +8,7 @@ layout: post
 
 - 手机：15800822331
 - Email：kyyblabla@163.com
-- QQ/微信：337994130
+- QQ/微信：337994130/kyyblabla
 
 ---
 
@@ -21,7 +21,7 @@ layout: post
  - Github: https://github.com/kyyblabla
  - OSChina:http://git.oschina.net/kyyblabla
  - 期望职位：**Java Web工程师**
- - 期望薪资：8K~12K，目前薪资为8K*13月
+ - 期望薪资：面议
  - 期望城市：上海
  
 ---
