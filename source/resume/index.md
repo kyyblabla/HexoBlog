@@ -17,18 +17,18 @@ layout: post
 - 康岩岩/男/1992
 - 本科/中原工学院/计算机科学与技术/2015届
 - 工作年限：2年
+- 目前已离职，可快速到岗
 - 博客：http://www.jianshu.com/u/1d4626240769
 - GitHub：https://github.com/kyyblabla
 - OsChina：http://git.oschina.net/kyyblabla
-- 期望职位：**Java Web工程师/全栈工程师**
+- 期望职位：**Java Web工程师**
 - 期望薪资：面议
-- 期望城市：上海
 
 ---
 
 # 自我评价
-- 能够独立开发、测试、部署项目，熟悉主流web开发技术和框架，如SpringBoot、SpringMVC、Mybatis、Hibernate
-- 经常使用流行java技术与工具，如Cache、lambda、RPC、多线程、AOP、异步消息、NIO
+- 能够独立开发、测试、部署项目，熟悉主流Java Web开发技术和框架，如SpringBoot、SpringMVC、Mybatis、Hibernate、Struts2
+- 经常使用流行Java技术与工具，如Cache、lambda、RPC、并发编程、AOP、异步消息、NIO
 - 熟悉常用数据结构与算法，熟悉常用设计模式、UML建模
 - 有扎实的前端技术功底，熟悉流行前端框架与技术（Vue、AngularJS、es6、npm、webpack）
 - 有丰富的前后端结合开发经验，可以进行全栈式开发
@@ -42,7 +42,7 @@ layout: post
 之间搭建沟通平台。在工作期间内主要开发了两端app后台接口以及中后台管理系统。后端技术栈为：SpringBoot+MyBatis+Redis+MySql+Restful，前端技术栈为：Vue+VueMaterial+webpack
 
 ### app后台接口开发
-- 重构老系统，借鉴微服务思想分拆业务模块，抽象service，面向接口提供服务
+- 重构老系统，借鉴微服务思想分拆业务模块，面向接口提供服务
 - 使用SpringBoot作为主要后台框架，加快开发进度，减小部署难度，同时做到快速响应新需求
 - 学习并搭建Jenkins持续集成平台，简化构建、测试、发布流程
 - 使用GitBook编写与发布api文档，同时提供postman调用示例，方便app端接口调试
@@ -131,6 +131,6 @@ layout: post
 - 前端工具：npm/bower/webpack/gulp/leSS
 - 数据库：MySQL/MongoDB
 - 缓存：Redis/MemCache
-- 版本管理、文档和自动化部署工具：SVN/Git/GitBook/Maven
+- 版本管理、文档和自动化部署工具：SVN/Git/GitBook/Markdown/Maven
 - 操作系统及工具：maxOS、Linux、shell编程
 - 其他掌握语言、框架：C++/Qt C++/C#/略懂node.js服务开发
